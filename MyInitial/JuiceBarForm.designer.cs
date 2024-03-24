@@ -1,5 +1,5 @@
 namespace MyNameSpace
-{
+{//Testing
     partial class JuiceBarForm
     {
         /// <summary>

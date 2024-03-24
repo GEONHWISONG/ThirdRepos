@@ -167,7 +167,7 @@ namespace MyNameSpace
                     drinkOrder[itemCountInteger].sizeString = "12 oz";
                     break;
                 case "sixteenOunceRadioButton":
-                    itemSizeDecimal = 3.5m;
+                    itemSizeDecimal = 5m;
                     drinkOrder[itemCountInteger].sizeString = "16 oz";
                     break;
                 case "twentyOunceRadioButton":
